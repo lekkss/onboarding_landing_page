@@ -1,6 +1,12 @@
 # onboarding_practice
 
-A new Flutter project.
+Onboarding code which includes landing page after the last onboarding screen
+
+## Screenshot
+
+![Screenshot_20210806-231548](https://user-images.githubusercontent.com/54916682/128576374-be7fefc3-d1b8-4736-8e55-11cc258e68a4.png)
+![Screenshot_20210806-231538](https://user-images.githubusercontent.com/54916682/128576561-5d53fed3-09d2-4885-80f7-c7ed979f53cc.png)
+![Screenshot_20210806-231544](https://user-images.githubusercontent.com/54916682/128576574-aa1399bf-f713-4bab-ae18-33ad1b4acbf4.png)
 
 ## Getting Started
 
